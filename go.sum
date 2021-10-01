@@ -1,0 +1,5 @@
+github.com/anders/ics v0.0.0-20200203043810-02c2edafb548 h1:KtNvxOflmbIAcQqoqm+mqQlhpnRhxzJ0bJrCR3uw0/g=
+github.com/anders/ics v0.0.0-20200203043810-02c2edafb548/go.mod h1:N3aA1WrkQEtOpMqSjLd9u2ZQsSldiP316q7c6JBTvhA=
+github.com/anders/strutils v0.0.0-20200128213935-096612be1a09/go.mod h1:Y22GknVhtjcTydKWioGIg9kD6JRMs8EdcrhcSyBhPFg=
+github.com/anders/strutils v0.0.0-20200129014843-f8d14f093668 h1:LoKLdC5A76GqaShPY6TIY8EPZ2hFOn7opSPoUdJKBus=
+github.com/anders/strutils v0.0.0-20200129014843-f8d14f093668/go.mod h1:Y22GknVhtjcTydKWioGIg9kD6JRMs8EdcrhcSyBhPFg=
