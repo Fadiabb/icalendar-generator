@@ -1,3 +1,13 @@
+// This is Free Software under GNU Affero General Public License v >= 3.0
+// without warranty, see README.md and license for details.
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// License-Filename: LICENSES/AGPL-3.0.txt
+//
+// SPDX-FileCopyrightText: 2021 Intevation GmbH <https://intevation.de>
+// Software-Engineering: 2021 Intevation GmbH <https://intevation.de>
+// Author(s):
+//  Fadi Abbud <fadi.abbud@intevation.de>
 package main
 
 import (
