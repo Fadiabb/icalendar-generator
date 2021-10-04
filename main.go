@@ -54,12 +54,12 @@ func main() {
 			"SUMMARY": "Event",
 		})
 	}
-	fp, err := os.Create("calender.ics")
+	fp, err := os.Create("calendar.ics")
 	if err != nil {
 		log.Fatalln("error by creating .ics file")
 		return
 	}
 	defer fp.Close()
 	cal.Encode(fp)
-	fmt.Println("calender.ics file generated successfully")
+	fmt.Println("calendar.ics file generated successfully")
 }

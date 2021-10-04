@@ -1,4 +1,4 @@
-module github.com/fadiabb/icalender-generator
+module github.com/fadiabb/icalendar-generator
 
 go 1.17
 
