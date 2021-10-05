@@ -58,6 +58,7 @@ func main() {
 	check(err)
 	cal := ics.NewCalendar()
 	for i := 0; i <= number; i++ {
+		startingDate = startingDate.Add(time.Hour * 1)
 		cal.Add(ics.Event{
 			"DTSTART": startingDate,
 			/* "DTEND": endingDate, */
