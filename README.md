@@ -14,4 +14,4 @@ SPDX-FileCopyrightText: 2021 Intevation GmbH <https://intevation.de>
 Software-Engineering: 2021 Intevation GmbH <https://intevation.de>
 ```
 
-The generated files are under CC BY 4.0 licensed.
+The generated files are licensed under CC BY 4.0 .
